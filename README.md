@@ -8,7 +8,7 @@
 AlexeyKondrukevich/AlexeyKondrukevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### :hammer_and_wrench: Languages and Tools :
+### 🤘 Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="90" height="90"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="90" height="90"/>&nbsp;
@@ -21,3 +21,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/modx/modx-original.svg" title="ModX" alt="ModX" width="90" height="90"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="90" height="90"/>&nbsp;
 </div>
+
+### 🤘 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexeyKondrukevich&theme=dark&background=32422)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyKondrukevich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
