@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="30%"/>
-    <a href="@Kondrrr">
+    <a href="https://t.me/Kondrrr">
       <img src="https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
 </div>
