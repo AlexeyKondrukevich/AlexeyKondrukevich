@@ -1,17 +1,19 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="30%"/>
-    <a href="https://t.me/Kondrrr">
-      <img src="https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
+    <div>
+        <a href="https://t.me/Kondrrr">
+          <img src="https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge" align="top" alt="Telegram Badge"/>
+        </a>
+        <a href="mailto:kondrukevich@icloud.com">
+          <img src="https://img.shields.io/badge/Mail-informational?logo=icloud&logoColor=white&style=for-the-badge" alt="Mail Badge"/>
+        </a>
+    </div>
 </div>
 
 
 
 - 👋 Hi, I’m @AlexeyKondrukevich
 - 👀 I’m interested in voleyball, football, OCR
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kondr08@mail.ru, +7-917-140-5554
 
 <!---
 AlexeyKondrukevich/AlexeyKondrukevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
