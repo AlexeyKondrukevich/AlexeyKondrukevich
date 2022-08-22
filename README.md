@@ -1,3 +1,12 @@
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="30%"/>
+    <a href="@Kondrrr">
+      <img src="https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
+</div>
+
+
+
 - 👋 Hi, I’m @AlexeyKondrukevich
 - 👀 I’m interested in voleyball, football, OCR
 - 🌱 I’m currently learning Python
